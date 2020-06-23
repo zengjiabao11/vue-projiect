@@ -1,0 +1,22 @@
+html,body,#app{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+.el-table{
+    margin-top: 15px;
+}
+.el-steps{
+    margin: 15px 0;
+    
+}
+.a{
+    font-size: 10px;
+}
+.quill-editor{
+    height: 100%;
+}

@@ -1,0 +1,86 @@
+{
+  "id": "1631353",
+  "name": "Pos",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1142238",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12163496",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "9940262",
+      "name": "drag",
+      "font_class": "drag",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6401233",
+      "name": "会员",
+      "font_class": "weibiaoti--",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "9499372",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "577334",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "577364",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "579598",
+      "name": "红包",
+      "font_class": "hongbao",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "750881",
+      "name": "单品",
+      "font_class": "danpin",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "8776823",
+      "name": "cart",
+      "font_class": "icon-test",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "8776873",
+      "name": "setting",
+      "font_class": "icon-test1",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}
